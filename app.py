@@ -1,2 +1,2 @@
-name = ("Hello world")
-print(name)
+name1 = ("Hello world")
+print(name1)
